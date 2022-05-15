@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kim Jun</h1>
+<h1 align="center">Hi 🔥, I'm Kim Jun</h1>
 <h3 align="center">A frontend developer and UI/UX designer</h3>
 
 <br>
